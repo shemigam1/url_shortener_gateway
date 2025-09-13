@@ -184,9 +184,6 @@ curl -H "Authorization: Bearer eyJhbGciOiJIUzI1NiIs..." \
      http://localhost:8080/api/v1/shorten
 ```
 
-```
-
-
 ## Contributing
 
 1. Fork the repository
@@ -217,4 +214,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Star this repository** ⭐ if you find it helpful!
 
 Built with ❤️ by [shemigam1](https://github.com/shemigam1)
-```
